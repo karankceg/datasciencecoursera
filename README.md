@@ -1,4 +1,0 @@
-datasciencecoursera
-===================
-
-A datascience repo
